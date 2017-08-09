@@ -1,0 +1,60 @@
+/*
+Colores & tipografía: 
+Verde - #ABE188;
+Rosa - #F78E69;
+font-family: 'Raleway', sans-serif;
+*/
+
+/* Escribe tu código acá debajo */
+*{
+	margin: 0px;
+	background:#F78E69;
+	border:0px;
+	box-sizing: border-box;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}
+
+.titulos{
+	text-align: right;
+	padding: 150px 60px 100px 60px;
+}
+h1{
+	font-size: 16px;
+	font-size: 3em;
+}
+h2{
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.img1{
+	width: 100%;
+	
+}
+
+.aboutborde{
+	background: #ABE188;
+	padding: 50px 300px 50px 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.about{
+
+	
+	background-color: #F78E69;
+	padding: 25px;
+
+}
+.img-oso{
+	width: 100%;
+
+}
+.pictures{
+	background: #ABE188;
+	padding: 50px 300px 50px 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
